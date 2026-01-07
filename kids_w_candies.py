@@ -5,7 +5,7 @@ class Solution:
         pass
 
     
-    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]: # type: ignore
 
         #List to store results
         greatest = []

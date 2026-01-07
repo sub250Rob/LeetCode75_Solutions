@@ -7,7 +7,7 @@ class Solution:
 
     # Function definition for solution
     #2 inputs, a list and a number, with a true or false output
-    def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
+    def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool: # type: ignore
 
         #can_place is the boolean value that will be returned
         can_place = False
