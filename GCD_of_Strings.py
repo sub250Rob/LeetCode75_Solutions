@@ -1,5 +1,11 @@
-from math import gcd
+'''
+Docstring for GCD_of_Strings
 
+This is my solution for LeetCode 75, Problem #1071 (Difficulty: Easy)
+'''
+
+
+from math import gcd
 
 # solution class required for leetcode
 class Solution:

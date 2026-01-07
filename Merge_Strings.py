@@ -1,4 +1,8 @@
+'''
+Docstring for Merge_Strings
 
+This is my solution for LeetCode 75, Problem #1768 (Difficulty: Easy)
+'''
 
 class Solution:
 

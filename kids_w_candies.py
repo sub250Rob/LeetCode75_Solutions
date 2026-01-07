@@ -1,3 +1,8 @@
+'''
+Docstring for kids_w_candies
+
+This is my solution for LeetCode 75, Problem #1431 (Difficulty: Easy)
+'''
 
 class Solution:
 

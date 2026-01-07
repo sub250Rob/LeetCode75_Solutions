@@ -1,3 +1,9 @@
+'''
+Docstring for can_place_fl
+
+This is solution for LeetCode 75, Problem #605 (Difficulty: Easy)
+'''
+
 
 # Standard class definition for Leetcode submission
 class Solution:
